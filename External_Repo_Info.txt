@@ -1,0 +1,16 @@
+IoT-Based Intelligent Gas Pipeline Safety System
+
+GitHub Repository: https://github.com/Akshay19122002/IoT-gas-pipeline-safety-system
+
+OVERVIEW:
+This is a comprehensive IoT-based monitoring and safety system for gas pipeline infrastructure. The codebase includes intelligent anomaly detection, real-time alerting, and predictive maintenance capabilities.
+
+REPOSITORY CONTAINS:
+- ESP32 firmware and IoT sensor configurations
+- Node.js backend for data aggregation and processing
+- Dashboard visualization and monitoring interface
+- MQTT protocol integration for real-time data transmission
+- Database schema and SQL configurations
+- Complete documentation and setup guides
+
+For complete source code, documentation, setup instructions, and project details, please visit the GitHub repository link above.
